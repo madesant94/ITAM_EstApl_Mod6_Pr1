@@ -1,0 +1,147 @@
+﻿Lista de Países por Región
+********
+South Asia
+   Afghanistan
+   Bangladesh
+   India
+   Nepal
+   Pakistan
+   Sri Lanka
+********
+Central and Eastern Europe
+   Albania
+   Bosnia and Herzegovina
+   Bulgaria
+   Croatia
+   Estonia
+   Hungary
+   Latvia
+   Lithuania
+   Montenegro
+   North Macedonia
+   Poland
+   Romania
+   Serbia
+   Slovakia
+   Slovenia
+********
+Middle East and North Africa
+   Algeria
+   Israel
+   Lebanon
+   Libya
+   Morocco
+   Tunisia
+   Turkey
+********
+Latin America and Caribbean
+   Argentina
+   Bolivia
+   Brazil
+   Chile
+   Colombia
+   Costa Rica
+   Dominican Republic
+   Ecuador
+   El Salvador
+   Guatemala
+   Honduras
+   Jamaica
+   Mexico
+   Nicaragua
+   Panama
+   Paraguay
+   Peru
+   Uruguay
+********
+Commonwealth of Independent States
+   Armenia
+   Azerbaijan
+   Belarus
+   Georgia
+   Kazakhstan
+   Kyrgyzstan
+   Moldova
+   Russia
+   Ukraine
+   Uzbekistan
+********
+North America and ANZ
+   Australia
+   Canada
+   New Zealand
+   United States
+********
+Western Europe
+   Austria
+   Belgium
+   Cyprus
+   Denmark
+   Finland
+   France
+   Germany
+   Greece
+   Ireland
+   Italy
+   Luxembourg
+   Malta
+   Netherlands
+   Norway
+   Portugal
+   Spain
+   Sweden
+   Switzerland
+   United Kingdom
+********
+Sub-Saharan Africa
+   Benin
+   Botswana
+   Burkina Faso
+   Cameroon
+   Chad
+   Comoros
+   Congo (Brazzaville)
+   Ethiopia
+   Gabon
+   Gambia
+   Ghana
+   Guinea
+   Ivory Coast
+   Kenya
+   Lesotho
+   Liberia
+   Madagascar
+   Malawi
+   Mali
+   Mauritania
+   Mauritius
+   Mozambique
+   Namibia
+   Niger
+   Nigeria
+   Rwanda
+   Senegal
+   Sierra Leone
+   South Africa
+   Swaziland
+   Tanzania
+   Togo
+   Uganda
+   Zambia
+   Zimbabwe
+********
+Southeast Asia
+   Cambodia
+   Indonesia
+   Laos
+   Malaysia
+   Myanmar
+   Philippines
+   Singapore
+   Thailand
+   Vietnam
+********
+East Asia
+   Japan
+   Mongolia
+   South Korea
